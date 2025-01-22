@@ -1,0 +1,45 @@
+Apologies for the formatting. This is just how I like to take notes when I have to come up with solutions for things.
+
+Presentation: Errors, failures, and Risks
+
+-Examples of failures
+	a.) Games, Graphics, Hardware
+	b.) Nuclear power plants (Chernobyl)
+-Increase reliability and safety vs. Economic benefit to short development time.
+	a.) Management issues: 
+		Cutting corners to save money and shorten development time, leading to unsatisfactory results.
+-Fear of new technology
+	a.) Risk of job market impact:
+		AI,
+		Computers,
+		CNC/Machining
+-What contributes to failures?
+	a.) Public Understanding: 
+		Misconceptions, 
+		Popularity
+	b.) 
+-User interface design
+	a.) Windows 8
+	b.)
+-Agile development
+	a.) Executive/Management Issues: 
+		Cutting costs,
+		misconceptions, 
+		rushed development times
+		lack of understanding on processes and iteration time.
+	b.)
+
+Different Topics to consider:
+
+-Technology
+	-Computer Science Errors
+		-Software, Hardware, Development errors
+	-Equipment Errors
+		-Hardware problems
+		-Innaccuracy
+-Marketing
+
+Structure/Layout
+
+-Each category will be multiple slides, with hierarchy in how they are covered.
+-Each subtopic should consider different aspects. Technology/Engineering/Marketing...etc.
